@@ -24,11 +24,10 @@
         <li>CSS3</li>
         <li>React-Native</li>
     </ul>
-    <div>
-        <ul>
-            <h2>Formation</h2>
-            <li><p>Técnico em Informática - Instituto Federal de Alagoas(2019-2022)</p></li>
-        </ul>
+    <ul>
+        <h2>Formation</h2>
+        <li><p>Técnico em Informática - Instituto Federal de Alagoas(2019-2022)</p></li>
+    </ul>
     </div>
   
 
