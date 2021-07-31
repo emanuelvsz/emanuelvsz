@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**emanuelvsz/emanuelvsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+</head>
+<body>
+  <h1>Hello, my name is Emanuel!</h1>
+  <p>I'm a web and mobile developer, I love to program and create applications.🤓</p>
+   <ul>
+        <h2>Programmer Skills</h2>
+        <li>C</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+    </ul>
+    <ul>
+        <h2>Web and Mobile Skills</h2>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>React-Native</li>
+    </ul>
+    <div>
+        <ul>
+            <h2>Formation</h2>
+            <li><p>Técnico em Informática - Instituto Federal de Alagoas(2019-2022)</p></li>
+        </ul>
+    </div>
+</body>
+</html>
