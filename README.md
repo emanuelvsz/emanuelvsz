@@ -10,6 +10,8 @@
   <p>I'm a web and mobile developer, I love to program and create applications.🤓</p>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelvsz&show_icons=true&theme=radical)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelvsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
    <ul>
         <h2>Programmer Skills</h2>
         <li>C</li>
@@ -29,7 +31,6 @@
         </ul>
     </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelvsz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </body>
 </html>
