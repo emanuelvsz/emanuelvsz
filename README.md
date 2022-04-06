@@ -23,6 +23,9 @@
         <li>HTML5</li>
         <li>CSS3</li>
         <li>React-Native</li>
+        <li>React</li>
+        <li>Flutter</li>
+        <li>Dart</li>
     </ul>
     <ul>
         <h2>Formation</h2>
