@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emanuelvsz&label=Visitas%20&color=0e75b6&style=flat" alt="emanuelvsz" /> </p>
 
 - I graduated as a ``computer technician`` and i'm studying ``information systems``
-- 🔭 I’m currently working on **DIT**
+- 🔭 I’m currently working on  <a href="https://github.com/DIT-IFAL"> **DIT** </a>
 - 🈴 In this repo, will contains the most of my little projects in a lot of languages <a href="https://github.com/emanuelvsz/simple-projects">click here</a>
 
 <h3 align="left">Languages and Tools:</h3>
