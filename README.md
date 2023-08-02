@@ -1,4 +1,7 @@
-<img src="https://github.com/emanuelvsz/emanuelvsz/assets/84058517/5f4577c4-e7ac-4476-9314-1da08fb7ddb9" alt="standard" width="100%" height="300px">
+<p align="center">
+  <img src="https://github.com/emanuelvsz/emanuelvsz/assets/84058517/6c36d1f9-7ea4-4ae6-b9fd-5d64ca11d8f9" width="50%">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">I'm a backend developer from Brazil</h3>
