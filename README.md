@@ -1,3 +1,5 @@
+<img src="https://github.com/emanuelvsz/emanuelvsz/assets/84058517/5f4577c4-e7ac-4476-9314-1da08fb7ddb9" alt="standard" width="100%" height="300px">
+
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
 <h3 align="center">I'm a backend developer from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emanuelvsz&label=Visitas%20&color=0e75b6&style=flat" alt="emanuelvsz" /> </p>
