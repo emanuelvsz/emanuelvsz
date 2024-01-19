@@ -4,3 +4,4 @@
 
 - I graduated as a ``computer technician`` and i'm majoring ``information systems``
 - 🔭 I’m currently working on  <a href="https://github.com/DIT-IFAL"> **DIT** </a> and <a href="https://github.com/pauli-ai">Pauli</a>
+- Discorver more things about me: <a href="https://portfolio-emanuelvsz.vercell.app"></a>
